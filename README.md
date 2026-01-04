@@ -28,7 +28,7 @@ A multimodal deep learning approach to real estate valuation using satellite ima
 ## 📁 Project Structure
 
 ```
-property-valuation/
+Satellite-Imagery-Based-Property-Valuation-/
 ├── Final_Code_Files/
 │   ├── data_fetcher.py        # Downloads train/test data & satellite images
 │   ├── preprocessings.ipynb   # EDA, feature engineering, visualizations
@@ -50,8 +50,8 @@ property-valuation/
 
 #### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/property-valuation.git
-cd property-valuation
+git clone https://github.com/ankit-raj00/Satellite-Imagery-Based-Property-Valuation-.git
+cd Satellite-Imagery-Based-Property-Valuation-
 ```
 
 #### Step 2: Install Dependencies
